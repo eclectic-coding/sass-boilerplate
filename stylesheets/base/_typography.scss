@@ -1,6 +1,9 @@
 /**
- * Basic typography style for copy text
+ * Basic typography style -- Semantic and elements styles
+ * Classes will be located in other partials
  */
+@import "../abstracts/variables";
+
 body {
   color: $text-color;
   font: normal 125% / 1.4 $text-font-stack;
